@@ -1,2 +1,4 @@
-# GitKraken-tutorial
-This is a simple repo for a GitKraken tutorial
+
+#Basic GitKraken Tutorial
+
+This is the readme for the repository
