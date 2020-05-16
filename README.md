@@ -1,4 +1,3 @@
-
-#Basic GitKraken Tutorial
+GitKraken Tutorial
 
 This is the readme for the repository
